@@ -1,0 +1,6 @@
+
+*.exe
+
+.idea/
+
+go.sum
